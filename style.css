@@ -1,6 +1,12 @@
-div id="Title" {
-  width: 100%;
-  padding: 10%;
+h1 {
+  padding-top: 10px;
   border: 5% solid gray;
   margin: 0;
+  text-align: center;
+
+}
+
+li {
+  display: inline-block;
+  padding: 20px 5px 20px
 }
